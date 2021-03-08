@@ -971,10 +971,10 @@
   dependencies:
     regenerator-runtime "^0.12.0"
 
-"@babel/runtime@^7.1.2", "@babel/runtime@^7.2.0", "@babel/runtime@^7.4.4", "@babel/runtime@^7.4.5", "@babel/runtime@^7.5.5", "@babel/runtime@^7.6.3", "@babel/runtime@^7.7.2", "@babel/runtime@^7.8.4", "@babel/runtime@^7.9.2":
-  version "7.10.2"
-  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.10.2.tgz#d103f21f2602497d38348a32e008637d506db839"
-  integrity sha512-6sF3uQw2ivImfVIl62RZ7MXhO2tap69WeWK57vAaimT6AZbE4FbqjdEJIN1UqoD6wI6B+1n9UiagafH1sxjOtg==
+"@babel/runtime@^7.1.2", "@babel/runtime@^7.10.2", "@babel/runtime@^7.2.0", "@babel/runtime@^7.4.4", "@babel/runtime@^7.4.5", "@babel/runtime@^7.5.5", "@babel/runtime@^7.6.3", "@babel/runtime@^7.7.2", "@babel/runtime@^7.8.4", "@babel/runtime@^7.9.2":
+  version "7.13.9"
+  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.13.9.tgz#97dbe2116e2630c489f22e0656decd60aaa1fcee"
+  integrity sha512-aY2kU+xgJ3dJ1eU6FMB9EH8dIe8dmusF1xEku52joLvw6eAFN0AI+WxCLDnpev2LEejWBAy2sBvBOBAjI3zmvA==
   dependencies:
     regenerator-runtime "^0.13.4"
 
@@ -9051,12 +9051,12 @@ react-test-renderer@^16.0.0-0, react-test-renderer@^16.13.1:
     react-is "^16.8.6"
     scheduler "^0.19.1"
 
-react-textarea-autosize@^8.0.1:
-  version "8.0.1"
-  resolved "https://registry.yarnpkg.com/react-textarea-autosize/-/react-textarea-autosize-8.0.1.tgz#fce0dbf6a59b7b9d892c6af40b6be06a29f62c49"
-  integrity sha512-Qs7Lm17F0CIsWeDaUcHPpP22etVQHkayOcMgOXTfVasVToS6G+IL+5a7ECZtbDR2qTgTRIXjYcLmuZUuTX4tNA==
+react-textarea-autosize@^8.3.2:
+  version "8.3.2"
+  resolved "https://registry.yarnpkg.com/react-textarea-autosize/-/react-textarea-autosize-8.3.2.tgz#4f9374d357b0a6f6469956726722549124a1b2db"
+  integrity sha512-JrMWVgQSaExQByP3ggI1eA8zF4mF0+ddVuX7acUeK2V7bmrpjVOY72vmLz2IXFJSAXoY3D80nEzrn0GWajWK3Q==
   dependencies:
-    "@babel/runtime" "^7.8.4"
+    "@babel/runtime" "^7.10.2"
     use-composed-ref "^1.0.0"
     use-latest "^1.0.0"
 
